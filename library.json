@@ -1,0 +1,20 @@
+{
+  "name": "AHT10",
+  "version": "1.0.0",
+  "description": "AHT10 Temperature and Humidity Sensor Library for CH32V003j4m6",
+  "keywords": "aht10, temperature, humidity, sensor, ch32v003,CH32V003j4m6",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shakir-abdo/CH32V003j4m6-AHT10.git"
+  },
+  "authors": [
+    {
+      "name": "Shakir Abdo",
+      "email": "shicolare1@gmail.com",
+      "maintainer": true
+    }
+],
+  "license": "MIT",
+  "frameworks": "ch32v003fun",
+  "platforms": "ch32v003"
+}
