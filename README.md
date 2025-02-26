@@ -1,6 +1,9 @@
 
 # AHT10 Temperature & Humidity Sensor Library
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Platform: CH32V003](https://img.shields.io/badge/Platform-CH32V003-blue.svg)](http://www.wch-ic.com/products/CH32V003.html)
+
 A lightweight and efficient library for the AHT10 temperature and humidity sensor, specifically designed for the CH32V003 microcontroller.
 
 ## Features
